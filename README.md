@@ -1,1 +1,1 @@
-# Morgage-Calculator
+# Mini-projects
